@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8">
+    <title>Hello MCSP-09!</title>
+  </head>
+  <body>
+    <h1>Hello MCSP-09!</h1>
+    <p>Welcome to my first web page.</p>
+    <p>My Name is Trey and I am learning how to become a software engineer :)</p>
+    <p>My favorite things are chicken wings, the Dallas Cowboys, and Coffee.
+    <style>
+    p {
+    color: red;
+    }
+    </style>
+  </body>
+</html>
+
